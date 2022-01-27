@@ -4,7 +4,8 @@
       color="white"
       dark
       depressed
-      elevation="0"
+      elevation="1"
+      height="58px"
     >
       <div class="d-flex align-center">
         <v-img
